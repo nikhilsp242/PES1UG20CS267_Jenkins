@@ -1,2 +1,0 @@
-docker build . -t jenkins:PES1UG20CS267
-docker run -p 8080:8080 -p 50000:50000 -it jenkins:PES1UG20CS267
